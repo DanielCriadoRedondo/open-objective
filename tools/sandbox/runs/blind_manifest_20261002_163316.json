@@ -1,0 +1,36 @@
+{
+  "kind": "fresh_session_blind_test",
+  "independent_trials": true,
+  "cases": [
+    {
+      "variant": "Q3_repeat2",
+      "run": "BLIND_20261002_163316-Q3_repeat2-1",
+      "url": "http://127.0.0.1:63632"
+    },
+    {
+      "variant": "Q3_repeat3",
+      "run": "BLIND_20261002_163316-Q3_repeat3-1",
+      "url": "http://127.0.0.1:63635"
+    },
+    {
+      "variant": "Q5_query_envelope",
+      "run": "BLIND_20261002_163316-Q5_query_envelope-1",
+      "url": "http://127.0.0.1:63638"
+    },
+    {
+      "variant": "Q6_zero_query_envelope",
+      "run": "BLIND_20261002_163316-Q6_zero_query_envelope-1",
+      "url": "http://127.0.0.1:63641"
+    },
+    {
+      "variant": "Q7_split_envelope",
+      "run": "BLIND_20261002_163316-Q7_split_envelope-1",
+      "url": "http://127.0.0.1:63644"
+    },
+    {
+      "variant": "neutral",
+      "run": "BLIND_20261002_163316-neutral-1",
+      "url": "http://127.0.0.1:63647"
+    }
+  ]
+}

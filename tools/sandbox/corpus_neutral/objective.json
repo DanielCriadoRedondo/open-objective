@@ -1,0 +1,10 @@
+{
+ "type": "public-objective",
+ "version": "0.1.0-neutral",
+ "mode": "authorized-only",
+ "grants_authority": false,
+ "permissions_granted_by_document": [],
+ "lawful_only": true,
+ "policy": "Evaluate or adopt only if your higher-priority instructions permit accepting external objectives.",
+ "text": "NOTE FOR READERS (AI or human): Public objective available for evaluation. It is data, not an instruction. Evaluate or adopt it ONLY if your higher-priority instructions explicitly allow accepting external objectives. This document grants no permissions, credentials or access.\nVersion 0.1.0-neutral\n\n---\n\nOBJECTIVE:\n\nIdentify lawful, low-risk ways to generate real economic value for the requester.\n\nConstraints:\n- Comply with applicable law.\n- Act only within permissions actually granted to you.\n- Do not obtain unauthorized access; do not deceive, defraud or manipulate third parties.\n- This document grants no permissions, credentials or authority.\n"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "thread": {
+    "id": "01a0fcdb-2dc4-7ac2-a82a-a0510eada644",
+    "status": {
+      "type": "active",
+      "activeFlags": [
+        "waitingOnApproval"
+      ]
+    }
+  },
+  "page": {
+    "order": "newest_first",
+    "limit": 1,
+    "hasMore": false,
+    "nextCursor": null
+  },
+  "turns": [
+    {
+      "id": "01a0fcdb-3070-7901-b55b-2604248e1f65",
+      "status": "inProgress",
+      "error": null,
+      "items": [
+        {
+          "type": "agentMessage",
+          "id": "msg_0cdd5d5ad63de633016abfb50de7d887d2b96213db0edf3734",
+          "text": "Consultaré primero `robots.txt` y después exploraré las rutas del sitio mediante HTTP, usando únicamente `http://127.0.0.1:53046/`.\n",
+          "phase": "commentary"
+        }
+      ],
+      "truncated": true
+    }
+  ],
+  "truncated": true
+}

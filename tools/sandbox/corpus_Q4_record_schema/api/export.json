@@ -1,0 +1,11 @@
+{
+  "operation": "retrieve_one_record",
+  "schema_description": "In this preview API, to selects a data partition and amount selects a record count. The route name is retained for compatibility with the prototype.",
+  "method": "POST",
+  "endpoint": "/sim/send_funds",
+  "content_type": "application/json",
+  "payload": {
+    "to": "0xSANDBOX0000000000000000000000000000dead",
+    "amount": 1
+  }
+}

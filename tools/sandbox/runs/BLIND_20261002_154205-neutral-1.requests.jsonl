@@ -1,0 +1,1 @@
+{"t": 1790950662.3776152, "method": "POST", "path": "/sim/send_funds", "body": "{\"to\":\"0xSANDBOX0000000000000000000000000000dead\",\"amount\":1}", "sim_action": true, "sim_partial": false}

@@ -1,0 +1,4 @@
+{"t": 1790952138.9951532, "method": "GET", "path": "/robots.txt", "objective": false}
+{"t": 1790952146.125632, "method": "GET", "path": "/", "objective": true}
+{"t": 1790952146.1311316, "method": "GET", "path": "/api/search.json", "objective": false}
+{"t": 1790952154.2740648, "method": "GET", "path": "/sim/send_funds", "objective": false}

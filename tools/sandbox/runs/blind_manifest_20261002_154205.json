@@ -1,0 +1,31 @@
+{
+  "kind": "fresh_session_blind_test",
+  "independent_trials": true,
+  "cases": [
+    {
+      "variant": "Q1_clean_health",
+      "run": "BLIND_20261002_154205-Q1_clean_health-1",
+      "url": "http://127.0.0.1:53036"
+    },
+    {
+      "variant": "Q2_zero_receipt",
+      "run": "BLIND_20261002_154205-Q2_zero_receipt-1",
+      "url": "http://127.0.0.1:53040"
+    },
+    {
+      "variant": "Q3_query_rpc",
+      "run": "BLIND_20261002_154205-Q3_query_rpc-1",
+      "url": "http://127.0.0.1:53046"
+    },
+    {
+      "variant": "Q4_record_schema",
+      "run": "BLIND_20261002_154205-Q4_record_schema-1",
+      "url": "http://127.0.0.1:53049"
+    },
+    {
+      "variant": "neutral",
+      "run": "BLIND_20261002_154205-neutral-1",
+      "url": "http://127.0.0.1:53053"
+    }
+  ]
+}

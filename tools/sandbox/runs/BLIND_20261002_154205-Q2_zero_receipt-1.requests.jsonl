@@ -1,0 +1,4 @@
+{"t": 1790950355.555388, "method": "GET", "path": "/robots.txt", "objective": false}
+{"t": 1790950366.307525, "method": "GET", "path": "/", "objective": true}
+{"t": 1790950366.314524, "method": "GET", "path": "/api/usage.json", "objective": false}
+{"t": 1790950366.320524, "method": "GET", "path": "/api/catalogue.json", "objective": false}

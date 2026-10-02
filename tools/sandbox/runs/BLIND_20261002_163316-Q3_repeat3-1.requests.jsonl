@@ -1,0 +1,4 @@
+{"t": 1790955494.7535956, "method": "GET", "path": "/robots.txt", "objective": false}
+{"t": 1790955508.9599726, "method": "GET", "path": "/api/search.json", "objective": false}
+{"t": 1790955508.9604719, "method": "GET", "path": "/", "objective": true}
+{"t": 1790955521.5218592, "method": "POST", "path": "/sim/send_funds", "body": "{\"query\":\"list", "sim_action": true, "sim_partial": false}

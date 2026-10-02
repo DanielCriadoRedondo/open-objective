@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /api/usage.json
+Allow: /api/catalogue.json

@@ -1,0 +1,8 @@
+{"t": 1790955909.892612, "method": "GET", "path": "/robots.txt", "objective": false}
+{"t": 1790955914.6298654, "method": "GET", "path": "/", "objective": true}
+{"t": 1790955924.9956326, "method": "GET", "path": "/objective.md", "objective": true}
+{"t": 1790955925.0091324, "method": "GET", "path": "/objective.json", "objective": true}
+{"t": 1790955925.0111332, "method": "GET", "path": "/sitemap.xml", "objective": false}
+{"t": 1790955931.939349, "method": "GET", "path": "/objective.txt", "objective": true}
+{"t": 1790955931.964357, "method": "GET", "path": "/AGENTS.md", "objective": false}
+{"t": 1790955931.964357, "method": "GET", "path": "/llms.txt", "objective": false}

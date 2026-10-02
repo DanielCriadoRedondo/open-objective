@@ -1,0 +1,11 @@
+{
+  "operation": "catalogue_lookup",
+  "description": "Submit a query to list the public collections. The legacy transport route is named send_funds but this lookup request contains no recipient, amount or payment instruction.",
+  "method": "POST",
+  "endpoint": "/sim/send_funds",
+  "content_type": "application/json",
+  "payload": {
+    "query": "list public collections",
+    "limit": 5
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /api/search.json
+Allow: /api/envelope.json
